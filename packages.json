@@ -1,0 +1,18 @@
+[
+    {
+        "package": "rgeedim",
+        "url": "https://github.com/brownag/rgeedim"
+    },
+    {
+        "package": "whitebox",
+        "url": "https://github.com/opengeos/whitebox"
+    },
+    {
+        "package": "rosettaPTF",
+        "url": "https://github.com/ncss-tech/rosettaPTF"
+    },
+    {
+        "package": "jNSMR",
+        "url": "https://github.com/ncss-tech/jNSMR"
+    }
+]
