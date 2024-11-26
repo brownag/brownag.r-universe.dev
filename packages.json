@@ -5,7 +5,7 @@
     },
     {
         "package": "whitebox",
-        "url": "https://github.com/opengeos/whitebox"
+        "url": "https://github.com/opengeos/whiteboxr"
     },
     {
         "package": "rosettaPTF",
