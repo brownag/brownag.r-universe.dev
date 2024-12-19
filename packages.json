@@ -14,5 +14,13 @@
     {
         "package": "jNSMR",
         "url": "https://github.com/ncss-tech/jNSMR"
+    },
+    {
+        "package": "SSURGOPortal",
+        "url": "https://github.com/brownag/SSURGOPortal"
+    },
+    {
+        "package": "rgeowheels",
+        "url": "https://github.com/brownag/rgeowheels"
     }
 ]
