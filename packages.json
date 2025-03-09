@@ -4,16 +4,8 @@
         "url": "https://github.com/brownag/rgeedim"
     },
     {
-        "package": "whitebox",
-        "url": "https://github.com/opengeos/whiteboxr"
-    },
-    {
-        "package": "rosettaPTF",
-        "url": "https://github.com/ncss-tech/rosettaPTF"
-    },
-    {
-        "package": "jNSMR",
-        "url": "https://github.com/ncss-tech/jNSMR"
+        "package": "gpkg",
+        "url": "https://github.com/brownag/gpkg"
     },
     {
         "package": "SSURGOPortal",
@@ -22,5 +14,9 @@
     {
         "package": "rgeowheels",
         "url": "https://github.com/brownag/rgeowheels"
+    },
+    {
+        "package": "rapr",
+        "url": "https://github.com/brownag/rapr"
     }
 ]
