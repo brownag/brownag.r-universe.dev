@@ -8,6 +8,10 @@
         "url": "https://github.com/brownag/gpkg"
     },
     {
+        "package": "rgeomorphon",
+        "url": "https://github.com/brownag/rgeomorphon"
+    },
+    {
         "package": "SSURGOPortal",
         "url": "https://github.com/brownag/SSURGOPortalR"
     },
